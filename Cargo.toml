@@ -1,0 +1,7 @@
+[package]
+name = "setup-vite-react-tailwindcssv4"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+which = "5.0"
