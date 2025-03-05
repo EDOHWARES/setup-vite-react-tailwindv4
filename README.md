@@ -20,3 +20,10 @@ Make sure you have the following installed on your system:
 ```bash
 cargo build --release
 
+### 2️⃣ Move the binary to a global location
+#### Linux/macOS
+```bash
+sudo mv target/release/setup-vite /usr/local/bin/setup-vite
+
+
+
